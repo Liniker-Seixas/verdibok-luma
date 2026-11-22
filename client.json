@@ -2,6 +2,7 @@
   "client_id": "https://liniker-seixas.github.io/verdibok-luma/client.json",
   "client_name": "Verdibok",
   "redirect_uris": [
+    "https://verdibok.tail6e8305.ts.net/api/luma-auth/callback",
     "https://liniker-seixas.tail6e8305.ts.net:8443/api/luma-auth/callback",
     "http://127.0.0.1:8790/api/luma-auth/callback",
     "http://localhost:8790/api/luma-auth/callback"
